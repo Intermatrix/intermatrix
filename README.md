@@ -75,7 +75,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/Intermatrix"><img src="https://img.shields.io/badge/GitHub-intermatrix-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://www.cnblogs.com/YouXinyang"><img src="https://images.cnblogs.com/cnblogs_com/blogs/808533/galleries/2360831/o_231125044843_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231125124828.jpg" alt="博客园" title="博客园" width="200" /></a>
+    <a href="https://www.cnblogs.com/YouXinyang"><img src="https://images.cnblogs.com/cnblogs_com/blogs/808533/galleries/2360831/o_231125044843_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231125124828.jpg" alt="博客园" title="博客园" width="20" /></a>
     <!-- a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/intermatrix"><img src="https://komarev.com/ghpvc/?username=intermatrix&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
