@@ -57,7 +57,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-intermatrix.vercel.app?user=intermatrix&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <!--img width="400" src="https://github-readme-streak-stats-intermatrix.vercel.app?user=intermatrix&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" / -->
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -74,9 +74,9 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/Xiaokang2022"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
+    <a href="https://github.com/Intermatrix"><img src="https://img.shields.io/badge/GitHub-intermatrix-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://www.cnblogs.com/YouXinyang"><img src="https://images.cnblogs.com/cnblogs_com/blogs/808533/galleries/2360831/o_231125044843_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231125124828.jpg" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <!-- a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/Xiaokang2022"><img src="https://komarev.com/ghpvc/?username=intermatrix&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
